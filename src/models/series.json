@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Sherlock",
+        "genre": ["Drama, basead on books, Mysteries, Dramatic Comedy, thriller, Crime, adventure"],
+        "synopsis":"In this updated take on Sir Arthur Conan Doyle's beloved mystery tales, the eccentric sleuth prowls the streets of modern London in search of clues.",
+        "liked": true,
+        "seasons": [
+            {
+                "id": 1,
+                "code": "season01",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "A Study in Pink",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "The Blind Banker",
+                        "watched": false
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "The Great Game",
+                        "watched": false
+                    }
+                ]
+            },
+            {
+
+            }
+            
+        ]
+    }
+]   
